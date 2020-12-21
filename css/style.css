@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: "Arial";
+    font-family: "Consolas";
     color: peru;
 }
 
@@ -8,5 +8,5 @@ body{
     width: 50%;
     margin: auto;
     padding: 120px;
-    border: solid gray 1px;
+    border: solid peru 1px;
 }
