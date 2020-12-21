@@ -10,3 +10,10 @@ body{
     padding: 120px;
     border: solid gray 1px;
 }
+
+.cabecera{
+    background-color: peru;
+    color: white;
+    text-transform: uppercase;
+    padding: 24px;
+}
